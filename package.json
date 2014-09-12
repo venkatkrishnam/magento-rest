@@ -16,6 +16,9 @@
     "magento",
     "rest"
   ],
+  "engines": {
+    "node": ">=0.10.30"
+  },
   "author": {
     "name": "Zach Curtis (Forward Motion Consulting)",
     "email": "zachariahtimothy@gmail.com"
