@@ -1,0 +1,27 @@
+{
+  "name": "magento-rest",
+  "version": "0.0.0",
+  "description": "Magento REST API wrapper for Node JS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zachariahtimothy/magento-rest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "magento",
+    "rest",
+    "magento",
+    "rest"
+  ],
+  "author": {
+    "name": "Zach Curtis (Forward Motion Consulting)",
+    "email": "zachariahtimothy@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "oauth-client": "^0.3.0"
+  }
+}
